@@ -1,0 +1,15 @@
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/LibraryManagmentSystem
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/LibraryManagmentSystem.deps.json
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/LibraryManagmentSystem.runtimeconfig.json
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/LibraryManagmentSystem.dll
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/LibraryManagmentSystem.pdb
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.csproj.AssemblyReference.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.AssemblyInfoInputs.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.AssemblyInfo.cs
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.dll
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/refint/LibraryManagmentSystem.dll
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.pdb
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/LibraryManagmentSystem.genruntimeconfig.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/ref/LibraryManagmentSystem.dll

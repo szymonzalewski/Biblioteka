@@ -1,0 +1,15 @@
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.csproj.AssemblyReference.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.AssemblyInfoInputs.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.AssemblyInfo.cs
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.csproj.CoreCompileInputs.cache
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/dd
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/dd.deps.json
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/dd.runtimeconfig.json
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/dd.dll
+/Users/szymonzalewski/Projects/dd/dd/bin/Debug/net7.0/dd.pdb
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.dll
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/refint/dd.dll
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.pdb
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/dd.genruntimeconfig.cache
+/Users/szymonzalewski/Projects/dd/dd/obj/Debug/net7.0/ref/dd.dll
